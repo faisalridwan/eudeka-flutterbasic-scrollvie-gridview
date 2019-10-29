@@ -1,10 +1,26 @@
-# scrollandroute_app
+# Flutter Basic Aplication ( Tugas 3 -OSG07 )
 
-A new Flutter project.
+Aplikasi Flutter yang dapat berpindah halaman dengan menggunakan widget GridView, ScrollView, dan Route.
 
-## Getting Started
+## Screenshot
+<table>
+  <tr>
+    <td><img src="images-app/flutter_01.png" width="60%"></td>
+    <td><img src="images-app/flutter_02.png" width="60%"></td>
+   </tr>
+</table>
 
-This project is a starting point for a Flutter application.
+
+
+
+### Built With
+- [Flutter](https://flutter.dev)
+
+### Created By
+- [Faisal Ridwan](faisalridwan.com)
+
+---
+
 
 A few resources to get you started if this is your first Flutter project:
 
