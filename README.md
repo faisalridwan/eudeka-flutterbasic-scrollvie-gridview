@@ -5,8 +5,8 @@ Aplikasi Flutter yang dapat berpindah halaman dengan menggunakan widget GridView
 ## Screenshot
 <table>
   <tr>
-    <td><img src="images-app/flutter_01.png" width="50%"></td>
-    <td><img src="images-app/flutter_01.png" width="50%"></td>
+    <td><img src="images-app/flutter_01.png" width="60%"></td>
+    <td><img src="images-app/flutter_02.png" width="60%"></td>
    </tr>
 </table>
 
