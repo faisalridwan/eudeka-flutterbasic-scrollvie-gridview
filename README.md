@@ -3,9 +3,15 @@
 Aplikasi Flutter yang dapat berpindah halaman dengan menggunakan widget GridView, ScrollView, dan Route.
 
 ## Screenshot
+<table>
+  <tr>
+    <td><img src="images-app/flutter_01.png" width="30%"></td>
+    <td><img src="images-app/flutter_01.png" width="30%"></td>
+   <tr>
+     </table>
 
-<img src="images-app/flutter_01.png" width="50%">
-<img src="images-app/flutter_01.png" width="50%">
+
+
 
 ### Built With
 - [Flutter](https://flutter.dev)
