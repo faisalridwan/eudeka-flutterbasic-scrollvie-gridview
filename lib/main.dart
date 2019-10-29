@@ -98,7 +98,7 @@ class _HomeState extends State<Home> {
       final jenisnya = jenis[i];
       final String gambar = jenisnya["gambar"];
 
-      daftarOlahraga.add(
+      daftarOlahraga.add(  
         new Container(
           padding: new EdgeInsets.all(3.1),
           child: new Column(
